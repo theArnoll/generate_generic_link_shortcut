@@ -3,7 +3,7 @@
 
 The batch code is translated by ChatGPT and modified by me
 
-### Please download this via [Release](https://github.com/theArnoll/generate_generic_link_shortcut)
+### Please download this via [Release Page](https://github.com/theArnoll/generate_generic_link_shortcutgenerate_generic_link_shortcut/releases)
 
 [See all functions in a video](./readme_gif/All_mp4.mp4)
 
