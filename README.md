@@ -17,29 +17,29 @@ The reason to make it Windows only is that I personally think Linux (such as Ubu
 #### Command
 
 ##### No specify file name
-![Repository(Project)/readme_gif/NoFileName.gif](./readme_gif/NoFileName.gif)
-Windows: `.\generate_generic_link_shortcut.bat [url]`\
-Ex. `.\generate_generic_link_shortcut.bat google.com`\
-<br>
+![https://i.imgur.com/Ad37v8W.gifv](https://i.imgur.com/Ad37v8W.gifv)
 Linux: `./generate_generic_link_shortcut.sh [url]`\
 Ex. `./generate_generic_link_shortcut.sh google.com`
+<br>
+Windows: `.\generate_generic_link_shortcut.bat [url]`\
+Ex. `.\generate_generic_link_shortcut.bat google.com`\
 
 ##### Specify file name (No space)
-![Repository(Project)/readme_gif/WithFileName.gif](./readme_gif/WithFileName.gif)
-Windows: `.\generate_generic_link_shortcut.bat [File name without space] [url]`\
-Ex. `.\generate_generic_link_shortcut.bat Pureclock theArnoll.github.io/pureclock`\
-<br>
+![Repository(Project)/readme_gif/WithFileName.gif](https://i.imgur.com/UjWcp2f.gifv)
 Linux: `./generate_generic_link_shortcut.sh [File name without space] [url]`\
 Ex. `./generate_generic_link_shortcut.sh Pureclock theArnoll.github.io/pureclock`
+<br>
+Windows: `.\generate_generic_link_shortcut.bat [File name without space] [url]`\
+Ex. `.\generate_generic_link_shortcut.bat Pureclock theArnoll.github.io/pureclock`\
 
 
 ##### Specify file name (With space)
-![Repository(Project)/readme_gif/WithSpcFileName.gif](./readme_gif/WithSpcFileName.gif)
-Windows: `.\generate_generic_link_shortcut.bat "[File name with space]" [url]`\
-Ex. `.\generate_generic_link_shortcut.bat "Start Page" theArnoll.github.io/startpage`\
-<br>
+![Repository(Project)/readme_gif/WithSpcFileName.gif](https://i.imgur.com/KzlzkRb.gifv)
 Linux: `./generate_generic_link_shortcut.sh "[File name with space]" [url]`\
 Ex. `./generate_generic_link_shortcut.sh "Start Page" theArnoll.github.io/startpage`
+<br>
+Windows: `.\generate_generic_link_shortcut.bat "[File name with space]" [url]`\
+Ex. `.\generate_generic_link_shortcut.bat "Start Page" theArnoll.github.io/startpage`\
 
 Lastly, if you notice my competer language looks like Chinese, yes, it is. But it's not Simplified Chinese. It's Traditional Chinese which is using only in Taiwan and Hong Kong. I'm Taiwanese, so you don't need to worry about China problem.\
 Or you can check the code yourself actually. We're in GitHub.
