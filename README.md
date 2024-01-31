@@ -1,7 +1,7 @@
 # Generic Link Shortcut
 ## Make the cross-platform link shortcut
 
-The batch code is translated by ChatGPT and modified by me
+The batch code is translated from Shell code (.sh) by ChatGPT and modified by me
 
 ### Please download this via [Release Page](https://github.com/theArnoll/generate_generic_link_shortcutgenerate_generic_link_shortcut/releases)
 
@@ -22,7 +22,7 @@ Linux: `./generate_generic_link_shortcut.sh [url]`\
 Ex. `./generate_generic_link_shortcut.sh google.com`
 <br>
 Windows: `.\generate_generic_link_shortcut.bat [url]`\
-Ex. `.\generate_generic_link_shortcut.bat google.com`\
+Ex. `.\generate_generic_link_shortcut.bat google.com`
 
 ##### Specify file name (No space)
 ![Repository(Project)/readme_gif/WithFileName.gif](./readme_gif/WithFileName.gif)\
@@ -30,7 +30,7 @@ Linux: `./generate_generic_link_shortcut.sh [File name without space] [url]`\
 Ex. `./generate_generic_link_shortcut.sh Pureclock theArnoll.github.io/pureclock`
 <br>
 Windows: `.\generate_generic_link_shortcut.bat [File name without space] [url]`\
-Ex. `.\generate_generic_link_shortcut.bat Pureclock theArnoll.github.io/pureclock`\
+Ex. `.\generate_generic_link_shortcut.bat Pureclock theArnoll.github.io/pureclock`
 
 
 ##### Specify file name (With space)
@@ -39,7 +39,7 @@ Linux: `./generate_generic_link_shortcut.sh "[File name with space]" [url]`\
 Ex. `./generate_generic_link_shortcut.sh "Start Page" theArnoll.github.io/startpage`
 <br>
 Windows: `.\generate_generic_link_shortcut.bat "[File name with space]" [url]`\
-Ex. `.\generate_generic_link_shortcut.bat "Start Page" theArnoll.github.io/startpage`\
+Ex. `.\generate_generic_link_shortcut.bat "Start Page" theArnoll.github.io/startpage`
 
 Lastly, if you notice my competer language looks like Chinese, yes, it is. But it's not Simplified Chinese. It's Traditional Chinese which is using only in Taiwan and Hong Kong. I'm Taiwanese, so you don't need to worry about China problem.\
 Or you can check the code yourself actually. We're in GitHub.
