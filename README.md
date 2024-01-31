@@ -10,14 +10,14 @@ The batch code is translated by ChatGPT and modified by me
 ### Usage
 
 #### Drag-and-drop (Windows .bat only)
-![Repository(Project)/readme_gif/Drag.gif](./readme_gif/Drag.gif)
+![Repository(Project)/readme_gif/Drag.gif](./readme_gif/Drag.gif)\
 Generate the normal .url shortcut file by dragging link from url bar on your browser, and drag the shortcut file to `generate_generic_link_shortcut.bat`. `link.html` will be generate. That is the cross-platform link shortcut. You can rename it if you want.\
 The reason to make it Windows only is that I personally think Linux (such as Ubuntu) has no opportunity to use this function at all.
 
 #### Command
 
 ##### No specify file name
-![https://i.imgur.com/Ad37v8W.gifv](https://i.imgur.com/Ad37v8W.gifv)
+![Repository(Project)/readme_gif/NoFileName.gif](./readme_gif/NoFileName.gif)\
 Linux: `./generate_generic_link_shortcut.sh [url]`\
 Ex. `./generate_generic_link_shortcut.sh google.com`
 <br>
@@ -25,7 +25,7 @@ Windows: `.\generate_generic_link_shortcut.bat [url]`\
 Ex. `.\generate_generic_link_shortcut.bat google.com`\
 
 ##### Specify file name (No space)
-![Repository(Project)/readme_gif/WithFileName.gif](https://i.imgur.com/UjWcp2f.gifv)
+![Repository(Project)/readme_gif/WithFileName.gif](./readme_gif/WithFileName.gif)\
 Linux: `./generate_generic_link_shortcut.sh [File name without space] [url]`\
 Ex. `./generate_generic_link_shortcut.sh Pureclock theArnoll.github.io/pureclock`
 <br>
@@ -34,7 +34,7 @@ Ex. `.\generate_generic_link_shortcut.bat Pureclock theArnoll.github.io/purecloc
 
 
 ##### Specify file name (With space)
-![Repository(Project)/readme_gif/WithSpcFileName.gif](https://i.imgur.com/KzlzkRb.gifv)
+![Repository(Project)/readme_gif/WithSpcFileName.gif](./readme_gif/WithSpcFileName.gif)\
 Linux: `./generate_generic_link_shortcut.sh "[File name with space]" [url]`\
 Ex. `./generate_generic_link_shortcut.sh "Start Page" theArnoll.github.io/startpage`
 <br>
